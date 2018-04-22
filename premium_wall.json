@@ -1,0 +1,152 @@
+{
+    "Categories": 
+        [
+            {
+                "name": "People"
+            },
+            {
+                "name": "Architecture"
+            },
+            {
+                "name": "City"
+            },
+            {
+                "name": "Mountain"
+            },
+            {
+                "name": "Forest"
+            },
+            {
+                "name": "Sunset"
+            },
+            {
+                "name": "Nature"
+            },
+            {
+                "name": "Satellite"
+            },
+
+
+            {
+                "name": "Animal"
+            },
+            {
+                "name": "Ocean"
+            },
+            {
+                "name": "Beach"
+            },
+            {
+                "name": "Road"
+            },
+            {
+                "name": "Black and White"
+            },
+            {
+                "name": "House"
+            }
+        ],
+    
+	"Wallpapers":
+        [
+			{
+				"author": "Atanu Sanyal",
+				"url": "https://preview.ibb.co/hEcoEH/wallpaper_1.png",
+				"thumbUrl": "https://preview.ibb.co/hEcoEH/wallpaper_1.png",
+				"name": "Wallpaper_1",
+                "category": "people"
+			},
+            {
+				"author": "Atanu Sanyal",
+				"url": "https://image.ibb.co/mi2c8c/moto_wallpaper_1.png",
+				"thumbUrl": "https://image.ibb.co/mi2c8c/moto_wallpaper_1.png",
+				"name": "Wallpaper_2",
+                "category": "architecture"
+			},
+            {
+				"author": "Atanu Sanyal",
+				"url": "https://preview.ibb.co/d8Y61x/moto_wallpaper_2.png",
+				"thumbUrl": "https://preview.ibb.co/d8Y61x/moto_wallpaper_2.png",
+				"name": "Wallpaper_3",
+                "category": "architecture,city"
+			},
+            {
+				"author": "Atanu Sanyal",
+				"url": "https://image.ibb.co/bTKDgx/moto_wallpaper_3.png",
+				"thumbUrl": "https://image.ibb.co/bTKDgx/moto_wallpaper_3.png",
+				"name": "Wallpaper_4",
+                "category": "mountain"
+			},
+            {
+				"author": "Atanu Sanyal",
+				"url": "https://preview.ibb.co/dRgtgx/moto_wallpaper_4.png",
+				"thumbUrl": "https://preview.ibb.co/dRgtgx/moto_wallpaper_4.png",
+				"name": "Wallpaper_5",
+                "category": "mountain,forest"
+			},
+            {
+				"author": "Atanu Sanyal",
+				"url": "https://preview.ibb.co/mUYH8c/moto_wallpaper_5.png",
+				"thumbUrl": "https://preview.ibb.co/mUYH8c/moto_wallpaper_5.png",
+				"name": "Wallpaper_6",
+                "category": "mountain,forest"
+			},
+            {
+				"author": "Atanu Sanyal",
+				"url": "https://preview.ibb.co/czeeMx/moto_x5_exclusive.png",
+				"thumbUrl": "https://preview.ibb.co/czeeMx/moto_x5_exclusive.png",
+				"name": "Wallpaper_7",
+                "category": "forest"
+			},
+            {
+				"author": "Atanu Sanyal",
+				"url": "https://image.ibb.co/gVFx8c/moto_x5_exclusive2.png",
+				"thumbUrl": "https://image.ibb.co/gVFx8c/moto_x5_exclusive2.png",
+				"name": "Wallpaper_8",
+                "category": "mountain,sunset"
+			},
+            {
+				"author": "Atanu Sanyal",
+				"url": "https://preview.ibb.co/m6nMZH/moto_x5_exclusive3.png",
+				"thumbUrl": "https://preview.ibb.co/m6nMZH/moto_x5_exclusive3.png",
+				"name": "Wallpaper_9",
+                "category": "city"
+			},
+			{
+				"author": "Atanu Sanyal",
+				"url": "https://image.ibb.co/diTTEH/moto_x5_exclusive4.png",
+				"thumbUrl": "https://image.ibb.co/diTTEH/moto_x5_exclusive4.png",
+				"name": "Wallpaper_10",
+                "category": "city"
+			},
+			{
+				"author": "Atanu Sanyal",
+				"url": "https://preview.ibb.co/jsbR1x/moto_x5_exclusive5.png",
+				"thumbUrl": "https://preview.ibb.co/jsbR1x/moto_x5_exclusive5.png",
+				"name": "Wallpaper_11",
+                "category": "city"
+			},
+			{
+				"author": "Atanu Sanyal",
+				"url": "https://preview.ibb.co/e5jw1x/wallpaper_4.png",
+				"thumbUrl": "https://preview.ibb.co/e5jw1x/wallpaper_4.png",
+				"name": "Wallpaper_12",
+                "category": "city"
+			},
+			{
+				"author": "Atanu Sanyal",
+				"url": "https://preview.ibb.co/jA7Ygx/wallpaper_2.png",
+				"thumbUrl": "https://preview.ibb.co/jA7Ygx/wallpaper_2.png",
+				"name": "Wallpaper_13",
+                "category": "city"
+			},
+            {
+				"author": "Atanu Sanyal",
+				"url": "https://preview.ibb.co/h9478c/wallpaper_3.png",
+				"thumbUrl": "https://preview.ibb.co/h9478c/wallpaper_3.png",
+				"name": "Wallpaper_14",
+                "category": "forest,sunset"
+			}
+            
+		]
+}
