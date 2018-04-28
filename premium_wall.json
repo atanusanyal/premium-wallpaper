@@ -160,7 +160,43 @@
 				"thumbUrl": "https://preview.ibb.co/gAxaMx/wallpaper_8.png",
 				"name": "Wallpaper_16",
                 "category": "forest,sunset"
-			}	
+			},
+	    {
+				"author": "xiaomi",
+				"url": "https://image.ibb.co/fQ3xjH/Mi_6_X_Mi_A1_Stock_Wallpapers_1.png",
+				"thumbUrl": "https://image.ibb.co/fQ3xjH/Mi_6_X_Mi_A1_Stock_Wallpapers_1.png",
+				"name": "Wallpaper_17",
+                "category": "forest,sunset"
+			},
+	     {
+				"author": "xiaomi",
+				"url": "https://preview.ibb.co/c4fcjH/Mi_6_X_Mi_A1_Stock_Wallpapers_2.png",
+				"thumbUrl": "https://preview.ibb.co/c4fcjH/Mi_6_X_Mi_A1_Stock_Wallpapers_2.png",
+				"name": "Wallpaper_18",
+                "category": "forest,sunset"
+			},
+	      {
+				"author": "xiaomi",
+				"url": "https://preview.ibb.co/jQ16dc/Mi_6_X_Mi_A1_Stock_Wallpapers_3.png",
+				"thumbUrl": "https://preview.ibb.co/jQ16dc/Mi_6_X_Mi_A1_Stock_Wallpapers_3.png",
+				"name": "Wallpaper_19",
+                "category": "forest,sunset"
+			},
+		
+	       {
+				"author": "xiaomi",
+				"url": "https://preview.ibb.co/nCX1Bx/Mi_6_X_Mi_A1_Stock_Wallpapers_4.png",
+				"thumbUrl": "https://preview.ibb.co/nCX1Bx/Mi_6_X_Mi_A1_Stock_Wallpapers_4.png",
+				"name": "Wallpaper_20",
+                "category": "forest,sunset"
+			},
+		{
+				"author": "xiaomi",
+				"url": "https://preview.ibb.co/jieRdc/Mi_6_X_Mi_A1_Stock_Wallpapers_5.png",
+				"thumbUrl": "https://preview.ibb.co/jieRdc/Mi_6_X_Mi_A1_Stock_Wallpapers_5.png",
+				"name": "Wallpaper_21",
+                "category": "forest,sunset"
+			}
             
 		]
 }
