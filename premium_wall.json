@@ -146,7 +146,21 @@
 				"thumbUrl": "https://preview.ibb.co/h9478c/wallpaper_3.png",
 				"name": "Wallpaper_14",
                 "category": "forest,sunset"
-			}
+			},
+	     {
+				"author": "Atanu Sanyal",
+				"url": "https://preview.ibb.co/goLHZH/wallpaper_5.png",
+				"thumbUrl": "https://preview.ibb.co/goLHZH/wallpaper_5.png",
+				"name": "Wallpaper_15",
+                "category": "forest,sunset"
+			},
+	    {
+				"author": "Atanu Sanyal",
+				"url": "https://preview.ibb.co/gAxaMx/wallpaper_8.png",
+				"thumbUrl": "https://preview.ibb.co/gAxaMx/wallpaper_8.png",
+				"name": "Wallpaper_16",
+                "category": "forest,sunset"
+			}	
             
 		]
 }
